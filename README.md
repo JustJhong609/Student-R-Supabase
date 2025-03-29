@@ -41,18 +41,7 @@ Below are the features implemented :
 
 - ✅ Tested
 - 🚧 Planned  
-  
-
-## Installation
-
-To install the project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/AliAkram7/student-record`
-2. Navigate to the project directory.
-3. Run `npm install` to install dependencies.
-
-For more information on setting up a Supabase project, refer to the [Supabase documentation](https://supabase.com/docs/guides/getting-started/tutorials/with-nextjs).
-
+ 
 ### License
 
 MIT
